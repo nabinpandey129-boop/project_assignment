@@ -1,10 +1,10 @@
 #include<stdio.h> 
-void displayname()
+void displayNumber()
 {
     printf("100");
 }
 int main()
 {
-displayname();
+displayNumber();
 return 0;
 }
